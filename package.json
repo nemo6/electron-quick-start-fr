@@ -1,0 +1,23 @@
+{
+  "name": "halo-mundo",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "keywords": [],
+  "author": "Nemo",
+  "license": "MIT",
+  "build": {
+    "appId": "com.electron.app",
+    "win": {
+      "target": "portable"
+    },
+    "portable": {
+      "unicode": false,
+      "artifactName": "test.exe"
+    }
+  }
+}
