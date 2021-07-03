@@ -2,7 +2,7 @@
 
 **Clonez et démarrez pour faire fonctionner Electron.**
 
-Ceci est une version minimale de Electron basé sur [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) avec la documention de Electron. 
+Ceci est une version minimale de Electron basé sur [[Guide Rapide](https://electronjs.org/docs/tutorial/quick-start) avec la documention de Electron. 
 
 **Utilisez cette application en même temps que [Electron API Demos](https://electronjs.org/#get-started) pour avoir des exemples d'API qui vous aideront à démarrer.**
 
@@ -12,11 +12,11 @@ Une application Electron basique n'a besoin que de ces fichiers :
 - `main.js`
 - `index.html`
 
-Vous pouvez en savoir plus sur chacun de ces composants dans la rubrique [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start).
+Vous pouvez en savoir plus sur chacun de ces composants dans la rubrique [Guide Rapide](https://electronjs.org/docs/tutorial/quick-start).
 
 ## Utilisation
 
-Pour cloner et démarrer ce répertoire il vous faudra [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (qui va avec [npm](http://npmjs.com)) installer sur votre PC. Depuis votre ligne de commande:
+Pour cloner et démarrer ce répertoire il vous faudra [Git](https://git-scm.com) et [Node.js](https://nodejs.org/en/download/) (qui va avec [npm](http://npmjs.com)) installer sur votre PC. Depuis votre ligne de commande:
 
 ```bash
 # Clone this repository
