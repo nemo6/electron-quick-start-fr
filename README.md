@@ -44,7 +44,7 @@ Note: Si vous utilisez Linux Bash pour Windows, [voir ce guide](https://www.howt
 
 - electron-forge
 - electron-packager
-- 
+
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
