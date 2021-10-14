@@ -40,7 +40,7 @@ Note: Si vous utilisez Linux Bash pour Windows, [voir ce guide](https://www.howt
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start)
 - [Build an Electron App in Under 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU)
 
-## other build
+## Other builder
 
 - electron-forge
 - electron-packager
