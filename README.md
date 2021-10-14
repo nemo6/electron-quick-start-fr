@@ -2,7 +2,7 @@
 
 **Clonez et démarrez pour faire fonctionner Electron.**
 
-Ceci est une version minimale de Electron basé sur [[Guide Rapide](https://electronjs.org/docs/tutorial/quick-start) avec la documention de Electron. 
+Ceci est une version minimale de Electron basé sur [Guide Rapide](https://electronjs.org/docs/tutorial/quick-start) avec la documention de Electron. 
 
 **Utilisez cette application en même temps que [Electron API Demos](https://electronjs.org/#get-started) pour avoir des exemples d'API qui vous aideront à démarrer.**
 
