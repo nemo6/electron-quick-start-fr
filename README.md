@@ -18,7 +18,7 @@ Vous pouvez en savoir plus sur chacun de ces composants dans la rubrique [Guide 
 
 Pour cloner et démarrer ce répertoire il vous faudra [Git](https://git-scm.com) et [Node.js](https://nodejs.org/en/download/) (qui va avec [npm](http://npmjs.com)) installer sur votre PC. Depuis votre ligne de commande:
 
-```bash
+```
 # Clone this repository
 git clone https://github.com/nemo6/electron-quick-start
 # Go into the repository
