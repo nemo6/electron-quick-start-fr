@@ -31,9 +31,7 @@ npm start
 npm run dist
 ```
 
-Note: Si vous utilisez Linux Bash pour Windows, [voir ce guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) ou utilisez `node` à partir de l'invite de commande.
-
-## Resources
+## Ressources
 
 - [electron](https://www.npmjs.com/package/electron)
 - [electron-builder](https://www.npmjs.com/package/electron-builder)
