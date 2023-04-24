@@ -15,7 +15,7 @@
       "artifactName": "test.exe"
     }
   },
-  "dependencies": {
+  "devDependencies": {
     "electron": "^24.1.2",
     "electron-builder": "^23.6.0"
   }
