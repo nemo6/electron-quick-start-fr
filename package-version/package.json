@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "author": "Nemo",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "com.electron.app",
+    "win": {
+      "target": "portable",
+      "artifactName": "test.exe"
+    }
+  },
+  "dependencies": {
+    "electron": "^24.1.2",
+    "electron-builder": "^23.6.0"
+  }
+}
