@@ -2,9 +2,7 @@
 
 **Clonez et démarrez pour faire fonctionner Electron.**
 
-Ceci est une version minimale de Electron basé sur [Guide Rapide](https://www.electronjs.org/fr/docs/latest/tutorial/quick-start) avec la documention de Electron. 
-
-**Utilisez cette application en même temps que [Electron API Demos](https://electronjs.org/#get-started) pour avoir des exemples d'API qui vous aideront à démarrer.**
+Ceci est une version minimale de Electron basé sur [le guide de démarrage rapide](https://www.electronjs.org/fr/docs/latest/tutorial/quick-start) de la documentation Electron.
 
 Une application Electron basique n'a besoin que de ces fichiers :
 
@@ -21,12 +19,16 @@ Pour cloner et démarrer ce répertoire il vous faudra [Git](https://git-scm.com
 ```
 # Clone this repository
 git clone https://github.com/nemo6/electron-quick-start
+
 # Go into the repository
 cd electron-quick-start
+
 # Install dependencies
 npm install electron@8.1.1 electron-builder@22.4.1
+
 # Run the app
 npm start
+
 # Build the app
 npm run dist
 ```
