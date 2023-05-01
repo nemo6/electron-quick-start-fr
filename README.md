@@ -41,6 +41,7 @@ npm install electron electron-builder
 - [electron-builder](https://www.npmjs.com/package/electron-builder)
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start)
 - [Build an Electron App in Under 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU)
+- [Build a Desktop App with Electron... But Should You?](https://www.youtube.com/watch?v=3yqDxhR2XxE)
 
 ## Other builder
 
