@@ -17,19 +17,19 @@ Vous pouvez en savoir plus sur chacun de ces composants dans la rubrique [Démar
 Pour cloner et démarrer ce répertoire il vous faudra [Git](https://git-scm.com) et [Node.js](https://nodejs.org/en/download/) (qui va avec [npm](http://npmjs.com)) installer sur votre PC. Depuis votre terminal :
 
 ```
-# Clone this repository
+# copie/clone le dépôt github
 git clone https://github.com/nemo6/electron-quick-start
 
-# Go into the repository
+# ouvre le dossier téléchargé
 cd electron-quick-start
 
-# Install dependencies
+# installe les dépendances
 npm install electron@8.1.1 electron-builder@22.4.1
 
-# Run the app
+# démarre l'application
 npm start
 
-# Build the app
+# construit/build l'application
 npm run dist
 ```
 
