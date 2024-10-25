@@ -1,23 +1,27 @@
 {
-  "name": "test",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
-  "main": "main.js",
-  "scripts": {
-    "start": "electron .",
-    "dist": "electron-builder"
-  },
-  "keywords": [],
-  "author": "Nemo",
-  "license": "MIT",
-  "build": {
-    "appId": "com.electron.app",
-    "win": {
-      "target": "portable"
-    },
-    "portable": {
-      "unicode": false,
-      "artifactName": "test.exe"
-    }
-  }
+	"name": "test",
+	"version": "1.0.0",
+	"description": "A minimal Electron application",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron .",
+		"dist": "electron-builder"
+	},
+	"keywords": [],
+	"author": "Nemo",
+	"license": "MIT",
+	"build": {
+		"appId": "com.electron.app",
+		"win": {
+			"target": "portable"
+		},
+		"portable": {
+			"unicode": false,
+			"artifactName": "test.exe"
+		}
+	},
+	"devDependencies": {
+		"electron": "^33.0.2",
+		"electron-builder": "^25.1.8"
+	}
 }
