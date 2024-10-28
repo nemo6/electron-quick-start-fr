@@ -24,7 +24,7 @@ git clone https://github.com/nemo6/electron-quick-start
 cd electron-quick-start
 
 # installe les dépendances
-npm install electron@8.1.1 electron-builder@22.4.1 --save-dev
+npm install electron electron-builder --save-dev
 
 # démarre l'application
 npm start
