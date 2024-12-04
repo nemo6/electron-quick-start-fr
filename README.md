@@ -14,7 +14,7 @@ Vous pouvez en savoir plus sur chacun de ces composants dans la rubrique [Démar
 
 ## Utilisation
 
-Pour cloner et démarrer ce répertoire il vous faudra [Git](https://git-scm.com) et [Node.js](https://nodejs.org/en/download/) (qui va avec [npm](http://npmjs.com)) installer sur votre PC. Depuis votre terminal :
+Pour cloner et démarrer ce répertoire il vous faudra [Git](https://git-scm.com) et [Node.js](https://nodejs.org/en/download/) ( qui va avec [npm](http://npmjs.com) ) installer sur votre PC. Depuis votre terminal :
 
 ```
 # copie/clone le dépôt github
@@ -34,7 +34,7 @@ npm run dist
 ```
 
 ```
-npm install electron electron-builder
+npm install electron electron-builder --save-dev
 ```
 
 ## Ressources
@@ -44,8 +44,3 @@ npm install electron electron-builder
 - [electron/electron-quick-start](https://github.com/electron/electron-quick-start)
 - [Build an Electron App in Under 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU)
 - [Build a Desktop App with Electron... But Should You?](https://www.youtube.com/watch?v=3yqDxhR2XxE)
-
-## Other builder
-
-- electron-forge
-- electron-packager
