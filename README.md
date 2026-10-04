@@ -37,6 +37,37 @@ npm run dist
 npm install electron electron-builder --save-dev
 ```
 
+```
+electron-builder --win dir --x64
+```
+
+```js
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Nemo",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win dir --x64"
+  },
+  "build": {
+    "appId": "com.electron.app",
+    "win": {
+      "target": "portable",
+      "artifactName": "hello.exe"
+    },
+    "directories": {
+      "output": "C:/Users/Nemo/Desktop/build/electron-build/dist" 
+    }
+  },
+  "dependencies": {
+    "electron": "^43.1.0",
+    "electron-builder": "^26.15.3"
+  }
+}
+```
+
 ## Ressources
 
 - [electron](https://www.npmjs.com/package/electron)
