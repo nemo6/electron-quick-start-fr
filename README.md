@@ -55,9 +55,9 @@ npm install electron electron-builder --save-dev
       "output": "C:/Users/Nemo/Desktop/build/electron-build/dist" 
     }
   },
-  "dependencies": {
-    "electron": "43.1.0",
-    "electron-builder": "^26.15.3"
+  "devDependencies": {
+    "electron": "43.1.0", // ^latest
+    "electron-builder": "^26.15.3" // ^latest
   }
 }
 ```
