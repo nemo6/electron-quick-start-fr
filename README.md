@@ -44,7 +44,7 @@ npm install electron electron-builder --save-dev
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "dist": "electron-builder dir --win --x64"
+    "dist": "electron-builder --win dir --x64"
   },
   "build": {
     "appId": "com.electron.app",
